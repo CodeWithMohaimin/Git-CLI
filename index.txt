@@ -1,0 +1,15 @@
+	
+	1.  git push origin (branch name) = push changes code Github 
+	2.  git push -u origin (branch names) = add branch on github     
+	3. git commit -am " message" = add & commit
+	4. git branch  = Know current branch
+	5. git status  = Know current status
+	6. git branch (branch name)  = create a branch
+	7. git checkout (branch name) = switching branch
+	8. git checkout -b (branch name ) = create & switch branch
+	9. git diff = git different
+	10. git diff (branch name)..(branch name) = between different
+	11. git log = all commits
+	12. git branch -d (branch name) = delete branch
+	13. echo "message" > merge .txt = create a file & write into message
+	14. git stash = temporary
