@@ -1,0 +1,1 @@
+const life = document.getElementById('programmer moh')
