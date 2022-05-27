@@ -13,3 +13,6 @@
 	12. git branch -d (branch name) = delete branch
 	13. echo "message" > merge .txt = create a file & write into message
 	14. git stash = temporary
+
+
+	Git cli is cool, I love it
